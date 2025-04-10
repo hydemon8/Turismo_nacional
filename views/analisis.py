@@ -133,17 +133,6 @@ def show():
         )
         st.plotly_chart(trend_fig, use_container_width=True)
 
-        st.subheader("🔗 Matriz de Correlación")
-        corr_matrix = filtered_df[['Visitantes', 'Latitud', 'Longitud']].corr()
-        corr_fig = px.imshow(
-            corr_matrix,
-            text_auto=True,
-            color_continuous_scale='RdBu_r',
-            aspect="auto"
-        )
-        st.plotly_chart(corr_fig, use_container_width=True)
-
-
     with tab4:
         st.subheader("📌 Conclusiones Dinámicas")
         st.markdown("### Resumen según filtros aplicados")
