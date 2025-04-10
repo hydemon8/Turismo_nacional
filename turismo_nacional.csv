@@ -1,0 +1,201 @@
+ID,Departamento,Latitud,Longitud,Destino,Visitantes,Temporada
+1,Santander,7.1254,-73.1198,Montaña,7389,Baja
+2,Nariño,1.2136,-77.2811,Montaña,2123,Media
+3,Antioquia,6.2442,-75.5812,Montaña,976,Media
+4,Santander,7.1254,-73.1198,Playa,7290,Baja
+5,Nariño,1.2136,-77.2811,Playa,2626,Media
+6,Valle del Cauca,3.4516,-76.5319,Ciudad,8636,Alta
+7,Cundinamarca,4.6814,-74.1371,Selva,3772,Baja
+8,Córdoba,8.749,-75.8814,Selva,2013,Baja
+9,Bogotá D.C.,4.711,-74.0721,Selva,2545,Alta
+10,Cundinamarca,4.6814,-74.1371,Selva,9076,Alta
+11,Antioquia,6.2442,-75.5812,Montaña,1587,Alta
+12,Atlántico,10.9685,-74.7813,Selva,4991,Media
+13,Magdalena,10.591,-74.1869,Ciudad,5334,Media
+14,Atlántico,10.9685,-74.7813,Selva,549,Media
+15,Antioquia,6.2442,-75.5812,Selva,1527,Media
+16,Valle del Cauca,3.4516,-76.5319,Montaña,2695,Media
+17,Cundinamarca,4.6814,-74.1371,Montaña,2376,Media
+18,Atlántico,10.9685,-74.7813,Montaña,5865,Baja
+19,Bogotá D.C.,4.711,-74.0721,Ciudad,8535,Baja
+20,Antioquia,6.2442,-75.5812,Montaña,2212,Baja
+21,Bolívar,10.3997,-75.5144,Selva,9237,Baja
+22,Magdalena,10.591,-74.1869,Ciudad,1126,Baja
+23,Santander,7.1254,-73.1198,Playa,9815,Baja
+24,Córdoba,8.749,-75.8814,Montaña,3792,Media
+25,Santander,7.1254,-73.1198,Ciudad,3149,Baja
+26,Valle del Cauca,3.4516,-76.5319,Playa,6246,Alta
+27,Bogotá D.C.,4.711,-74.0721,Montaña,7684,Baja
+28,Atlántico,10.9685,-74.7813,Playa,7198,Alta
+29,Magdalena,10.591,-74.1869,Montaña,5979,Alta
+30,Santander,7.1254,-73.1198,Ciudad,8352,Baja
+31,Córdoba,8.749,-75.8814,Montaña,5153,Media
+32,Magdalena,10.591,-74.1869,Montaña,3706,Media
+33,Santander,7.1254,-73.1198,Ciudad,6769,Alta
+34,Atlántico,10.9685,-74.7813,Ciudad,489,Media
+35,Atlántico,10.9685,-74.7813,Selva,4716,Alta
+36,Antioquia,6.2442,-75.5812,Selva,9967,Media
+37,Cundinamarca,4.6814,-74.1371,Ciudad,352,Media
+38,Nariño,1.2136,-77.2811,Montaña,8152,Media
+39,Valle del Cauca,3.4516,-76.5319,Playa,3266,Media
+40,Nariño,1.2136,-77.2811,Ciudad,795,Baja
+41,Córdoba,8.749,-75.8814,Playa,6023,Baja
+42,Bogotá D.C.,4.711,-74.0721,Selva,4848,Baja
+43,Valle del Cauca,3.4516,-76.5319,Selva,7965,Alta
+44,Cundinamarca,4.6814,-74.1371,Ciudad,1605,Baja
+45,Antioquia,6.2442,-75.5812,Ciudad,2843,Baja
+46,Cundinamarca,4.6814,-74.1371,Montaña,4754,Baja
+47,Nariño,1.2136,-77.2811,Selva,7989,Media
+48,Magdalena,10.591,-74.1869,Selva,1398,Media
+49,Nariño,1.2136,-77.2811,Ciudad,4790,Media
+50,Magdalena,10.591,-74.1869,Playa,3968,Media
+51,Córdoba,8.749,-75.8814,Montaña,7700,Media
+52,Santander,7.1254,-73.1198,Ciudad,7300,Baja
+53,Atlántico,10.9685,-74.7813,Playa,315,Baja
+54,Bolívar,10.3997,-75.5144,Montaña,6344,Media
+55,Nariño,1.2136,-77.2811,Playa,279,Media
+56,Antioquia,6.2442,-75.5812,Montaña,2786,Baja
+57,Córdoba,8.749,-75.8814,Montaña,7755,Baja
+58,Magdalena,10.591,-74.1869,Montaña,5679,Media
+59,Bolívar,10.3997,-75.5144,Selva,476,Alta
+60,Atlántico,10.9685,-74.7813,Ciudad,7060,Media
+61,Valle del Cauca,3.4516,-76.5319,Selva,8145,Baja
+62,Bogotá D.C.,4.711,-74.0721,Selva,1927,Alta
+63,Nariño,1.2136,-77.2811,Montaña,7872,Media
+64,Córdoba,8.749,-75.8814,Ciudad,5952,Baja
+65,Cundinamarca,4.6814,-74.1371,Ciudad,7677,Baja
+66,Nariño,1.2136,-77.2811,Ciudad,2427,Baja
+67,Atlántico,10.9685,-74.7813,Ciudad,9794,Media
+68,Córdoba,8.749,-75.8814,Montaña,9044,Media
+69,Bolívar,10.3997,-75.5144,Ciudad,7684,Alta
+70,Córdoba,8.749,-75.8814,Playa,8541,Baja
+71,Magdalena,10.591,-74.1869,Playa,7372,Baja
+72,Bolívar,10.3997,-75.5144,Selva,2920,Alta
+73,Magdalena,10.591,-74.1869,Montaña,4836,Media
+74,Valle del Cauca,3.4516,-76.5319,Selva,6570,Baja
+75,Córdoba,8.749,-75.8814,Selva,9181,Alta
+76,Santander,7.1254,-73.1198,Ciudad,5701,Baja
+77,Bogotá D.C.,4.711,-74.0721,Playa,4966,Media
+78,Bolívar,10.3997,-75.5144,Playa,6620,Media
+79,Magdalena,10.591,-74.1869,Ciudad,2843,Alta
+80,Cundinamarca,4.6814,-74.1371,Ciudad,4676,Alta
+81,Valle del Cauca,3.4516,-76.5319,Montaña,7283,Baja
+82,Córdoba,8.749,-75.8814,Playa,6500,Media
+83,Cundinamarca,4.6814,-74.1371,Selva,7855,Media
+84,Antioquia,6.2442,-75.5812,Selva,3196,Alta
+85,Santander,7.1254,-73.1198,Montaña,8121,Alta
+86,Cundinamarca,4.6814,-74.1371,Playa,8290,Baja
+87,Bolívar,10.3997,-75.5144,Ciudad,1185,Media
+88,Valle del Cauca,3.4516,-76.5319,Selva,3829,Baja
+89,Valle del Cauca,3.4516,-76.5319,Playa,4428,Baja
+90,Córdoba,8.749,-75.8814,Playa,1587,Alta
+91,Nariño,1.2136,-77.2811,Playa,8640,Media
+92,Bogotá D.C.,4.711,-74.0721,Ciudad,7553,Alta
+93,Córdoba,8.749,-75.8814,Selva,8705,Baja
+94,Valle del Cauca,3.4516,-76.5319,Ciudad,7437,Baja
+95,Bolívar,10.3997,-75.5144,Playa,7202,Media
+96,Valle del Cauca,3.4516,-76.5319,Playa,1109,Media
+97,Atlántico,10.9685,-74.7813,Selva,4482,Media
+98,Córdoba,8.749,-75.8814,Selva,6805,Media
+99,Bolívar,10.3997,-75.5144,Ciudad,9073,Alta
+100,Bolívar,10.3997,-75.5144,Ciudad,3179,Alta
+101,Cundinamarca,4.6814,-74.1371,Ciudad,4552,Alta
+102,Bogotá D.C.,4.711,-74.0721,Playa,2286,Alta
+103,Nariño,1.2136,-77.2811,Selva,5730,Baja
+104,Antioquia,6.2442,-75.5812,Montaña,9498,Alta
+105,Antioquia,6.2442,-75.5812,Selva,4618,Alta
+106,Bogotá D.C.,4.711,-74.0721,Selva,404,Media
+107,Santander,7.1254,-73.1198,Selva,5238,Baja
+108,Antioquia,6.2442,-75.5812,Montaña,3554,Alta
+109,Cundinamarca,4.6814,-74.1371,Ciudad,6182,Baja
+110,Valle del Cauca,3.4516,-76.5319,Montaña,5449,Baja
+111,Bolívar,10.3997,-75.5144,Selva,950,Baja
+112,Antioquia,6.2442,-75.5812,Selva,5827,Baja
+113,Bogotá D.C.,4.711,-74.0721,Playa,8786,Media
+114,Cundinamarca,4.6814,-74.1371,Selva,3655,Media
+115,Bogotá D.C.,4.711,-74.0721,Montaña,2774,Baja
+116,Magdalena,10.591,-74.1869,Montaña,3530,Baja
+117,Bolívar,10.3997,-75.5144,Montaña,7640,Baja
+118,Nariño,1.2136,-77.2811,Ciudad,3249,Media
+119,Atlántico,10.9685,-74.7813,Playa,3447,Media
+120,Antioquia,6.2442,-75.5812,Ciudad,4049,Baja
+121,Bogotá D.C.,4.711,-74.0721,Montaña,604,Baja
+122,Córdoba,8.749,-75.8814,Ciudad,7865,Baja
+123,Atlántico,10.9685,-74.7813,Playa,2754,Baja
+124,Santander,7.1254,-73.1198,Playa,3506,Media
+125,Antioquia,6.2442,-75.5812,Playa,3617,Alta
+126,Bogotá D.C.,4.711,-74.0721,Playa,5512,Alta
+127,Valle del Cauca,3.4516,-76.5319,Montaña,5357,Media
+128,Cundinamarca,4.6814,-74.1371,Selva,1679,Media
+129,Magdalena,10.591,-74.1869,Montaña,413,Alta
+130,Bolívar,10.3997,-75.5144,Montaña,4415,Alta
+131,Valle del Cauca,3.4516,-76.5319,Montaña,2787,Alta
+132,Córdoba,8.749,-75.8814,Montaña,7410,Baja
+133,Antioquia,6.2442,-75.5812,Ciudad,5623,Alta
+134,Bogotá D.C.,4.711,-74.0721,Playa,4599,Alta
+135,Cundinamarca,4.6814,-74.1371,Selva,4674,Baja
+136,Cundinamarca,4.6814,-74.1371,Selva,6965,Baja
+137,Santander,7.1254,-73.1198,Selva,7827,Media
+138,Bolívar,10.3997,-75.5144,Montaña,9115,Baja
+139,Cundinamarca,4.6814,-74.1371,Playa,4415,Alta
+140,Santander,7.1254,-73.1198,Playa,2514,Baja
+141,Bolívar,10.3997,-75.5144,Selva,5415,Media
+142,Atlántico,10.9685,-74.7813,Selva,4879,Alta
+143,Atlántico,10.9685,-74.7813,Montaña,3920,Media
+144,Santander,7.1254,-73.1198,Selva,5906,Media
+145,Cundinamarca,4.6814,-74.1371,Montaña,2069,Media
+146,Antioquia,6.2442,-75.5812,Selva,1859,Baja
+147,Santander,7.1254,-73.1198,Playa,3225,Baja
+148,Bolívar,10.3997,-75.5144,Playa,6666,Media
+149,Santander,7.1254,-73.1198,Playa,7965,Media
+150,Cundinamarca,4.6814,-74.1371,Ciudad,2381,Media
+151,Magdalena,10.591,-74.1869,Selva,5329,Media
+152,Valle del Cauca,3.4516,-76.5319,Ciudad,1223,Baja
+153,Atlántico,10.9685,-74.7813,Playa,5931,Baja
+154,Valle del Cauca,3.4516,-76.5319,Selva,1334,Media
+155,Cundinamarca,4.6814,-74.1371,Ciudad,6976,Baja
+156,Córdoba,8.749,-75.8814,Playa,7670,Alta
+157,Nariño,1.2136,-77.2811,Playa,6056,Baja
+158,Valle del Cauca,3.4516,-76.5319,Selva,774,Media
+159,Valle del Cauca,3.4516,-76.5319,Selva,5613,Baja
+160,Valle del Cauca,3.4516,-76.5319,Montaña,2405,Alta
+161,Valle del Cauca,3.4516,-76.5319,Selva,1368,Alta
+162,Antioquia,6.2442,-75.5812,Playa,5197,Baja
+163,Santander,7.1254,-73.1198,Montaña,3321,Alta
+164,Córdoba,8.749,-75.8814,Montaña,4819,Alta
+165,Valle del Cauca,3.4516,-76.5319,Selva,4294,Baja
+166,Nariño,1.2136,-77.2811,Playa,1349,Baja
+167,Bolívar,10.3997,-75.5144,Ciudad,4129,Baja
+168,Cundinamarca,4.6814,-74.1371,Playa,2960,Media
+169,Bogotá D.C.,4.711,-74.0721,Playa,3613,Media
+170,Santander,7.1254,-73.1198,Selva,3319,Alta
+171,Atlántico,10.9685,-74.7813,Ciudad,8470,Alta
+172,Santander,7.1254,-73.1198,Montaña,2299,Baja
+173,Santander,7.1254,-73.1198,Ciudad,5030,Alta
+174,Bogotá D.C.,4.711,-74.0721,Selva,4777,Baja
+175,Nariño,1.2136,-77.2811,Playa,5572,Media
+176,Cundinamarca,4.6814,-74.1371,Playa,6808,Baja
+177,Valle del Cauca,3.4516,-76.5319,Ciudad,7941,Alta
+178,Antioquia,6.2442,-75.5812,Ciudad,7930,Baja
+179,Magdalena,10.591,-74.1869,Selva,2629,Baja
+180,Magdalena,10.591,-74.1869,Ciudad,9227,Baja
+181,Valle del Cauca,3.4516,-76.5319,Selva,7570,Alta
+182,Antioquia,6.2442,-75.5812,Montaña,9248,Baja
+183,Antioquia,6.2442,-75.5812,Ciudad,2573,Baja
+184,Magdalena,10.591,-74.1869,Playa,1185,Alta
+185,Bolívar,10.3997,-75.5144,Ciudad,7462,Media
+186,Cundinamarca,4.6814,-74.1371,Playa,4762,Media
+187,Antioquia,6.2442,-75.5812,Montaña,3534,Alta
+188,Bogotá D.C.,4.711,-74.0721,Montaña,7828,Media
+189,Valle del Cauca,3.4516,-76.5319,Ciudad,2765,Baja
+190,Cundinamarca,4.6814,-74.1371,Selva,9393,Alta
+191,Antioquia,6.2442,-75.5812,Playa,8575,Baja
+192,Nariño,1.2136,-77.2811,Montaña,4571,Baja
+193,Bolívar,10.3997,-75.5144,Ciudad,6619,Alta
+194,Nariño,1.2136,-77.2811,Montaña,887,Baja
+195,Antioquia,6.2442,-75.5812,Ciudad,9148,Alta
+196,Bogotá D.C.,4.711,-74.0721,Playa,9990,Baja
+197,Atlántico,10.9685,-74.7813,Ciudad,7005,Media
+198,Nariño,1.2136,-77.2811,Playa,8088,Baja
+199,Valle del Cauca,3.4516,-76.5319,Montaña,7306,Baja
+200,Bogotá D.C.,4.711,-74.0721,Playa,2233,Alta
