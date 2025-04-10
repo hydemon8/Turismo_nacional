@@ -1,7 +1,9 @@
-streamlit==1.35.0
-pandas==2.0.3
-plotly==5.15.0
+streamlit==1.32.2          # Versión estable con streamlit-folium
+pandas==1.5.3             # Versión compatible con Python 3.9
 folium==0.14.0
+streamlit-folium==0.15.1  # Versión compatible probada
+numpy==1.23.5             # Versión requerida por pandas 1.5.3
+plotly==5.15.0
 streamlit-option-menu==0.3.2
-numpy==1.26.0
-streamlit-folium==0.24.0
+geopy==2.3.0              # Nueva dependencia necesaria
+shapely==2.0.1            # Requerido para operaciones geospatial
