@@ -28,10 +28,8 @@ def show():
     A través de esta plataforma interactiva podrás:
     - Consultar estadísticas clave sobre el turismo nacional 📈
     - Analizar la distribución geográfica de los visitantes 🗺️
-    - Visualizar tendencias temporales y destinos más visitados 🏖️
+    - Visualizar destinos más visitados 🏖️
     - Explorar reportes generados dinámicamente según tus filtros 🧾
-
-    Este dashboard está orientado tanto a analistas, estudiantes e instituciones que deseen obtener una **visión clara del comportamiento turístico** a nivel nacional.
     """)
 
     st.markdown("---")
