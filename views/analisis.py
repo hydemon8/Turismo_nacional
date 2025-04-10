@@ -10,14 +10,7 @@ def show():
 
     # Cargar datos
     df = load_turismo_data()
-
-    st.write("Primeras filas del DataFrame:")
-    st.write(df.head())
-
-    st.write("Columnas disponibles:")
-    st.write(df.columns.tolist())
-
-
+    
     # Sidebar con filtros
     with st.sidebar:
         st.header("🔍 Filtros de Análisis")
